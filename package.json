@@ -1,0 +1,11 @@
+{
+  "name": "sanber52-quiz-4-kelompok5",
+  "version": "1.0.0",
+  "description": "Kelompok 5 - Quiz 4 MOBILE AUTOMATION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
